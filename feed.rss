@@ -2,19 +2,19 @@
 <rss version="2.0">
     <channel>
         <item>
-            <title>Naslov ide ovde</title>
-            <description>Opis ide ovde</description>
-            <link>http://www.link_ide_ovde.com</link> 
+            <title>New offers for Greece</title>
+            <description>Most popular summer locations in Greece for 2020</description>
+            <link>https://virhur.github.io/LukaTravel/Greece.html</link> 
         </item>
         <item>
-            <title>Naslov ide ovde</title>
-            <description>Opis ide ovde</description>
-            <link>http://www.link_ide_ovde.com</link> 
+            <title>New offers for Turkey</title>
+            <description>Most popular summer locations in Turkey for 2020</description>
+            <link>https://virhur.github.io/LukaTravel/Turkey.html</link> 
         </item>
         <item>
-            <title>Naslov ide ovde</title>
-            <description>Opis ide ovde</description>
-            <link>http://www.link_ide_ovde.com</link> 
+            <title>New offers for Egypt</title>
+            <description>Most popular summer locations in Egypt for 2020</description>
+            <link>https://virhur.github.io/LukaTravel/Egypt.html</link> 
         </item>
     </channel>
 </rss>

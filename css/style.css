@@ -286,6 +286,9 @@ a {
 	bottom: 0;
 	min-width:1000px;
 }
+#futer li a{
+	target:blank;
+}
 
 #copyright {
 	float:left;
